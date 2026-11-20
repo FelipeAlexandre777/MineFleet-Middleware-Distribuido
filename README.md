@@ -1,11 +1,5 @@
 # MineFleet — Middleware Distribuído para Monitoramento e Controle de Frota de Mineração
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.115.12-009688?logo=fastapi)
-![MQTT](https://img.shields.io/badge/Protocolo-MQTT-purple)
-![SQLite](https://img.shields.io/badge/Banco%20de%20Dados-SQLite-blue)
-![Status](https://img.shields.io/badge/Status-Projeto%20Acadêmico-orange)
-
 ## 1. Sobre o projeto
 
 O **MineFleet** é um projeto acadêmico desenvolvido para a disciplina de **Sistemas Distribuídos**, do curso de Bacharelado em Sistemas de Informação do Instituto Federal de Minas Gerais (IFMG) – Campus Ouro Branco.
