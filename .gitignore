@@ -1,1 +1,14 @@
 __pycache__/\n*.py[cod]\n.venv/\ndata/\n.env\n
+
+# Ambiente virtual
+.venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.py[cod]
+
+# Bancos de dados locais
+data/*.db
+
+# Configurações do VS Code
+.vscode/
